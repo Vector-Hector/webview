@@ -1,5 +1,6 @@
 package webview
 
+import "C"
 import (
 	"encoding/json"
 	"errors"
